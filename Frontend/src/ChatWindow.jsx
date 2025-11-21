@@ -50,7 +50,7 @@ function ChatWindow(){
     return(
         <div className="chatwindow">
             <div className="navbar">
-                <span>SigmaGPT<i className="fa-solid fa-chevron-down"></i></span>
+                <span>LiteGPT<i className="fa-solid fa-chevron-down"></i></span>
                 <div className="userIconDiv">
                     <span className="userIcon"><i className="fa-solid fa-user"></i></span>
                 </div>
